@@ -1,5 +1,5 @@
 # Abstractive Text Summarization
-## EE626 Course Project
+## EE626 Course Project, IIT Guwahati 2021
 Team members:
 * Deepak Patil
 * Piyush Kulkarni
